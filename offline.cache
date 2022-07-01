@@ -3,6 +3,7 @@ CACHE MANIFEST
 app2usb.bin
 app-dumper.bin
 backupdb.bin
+pkgBackup.bin
 bg1.png
 disableaslr.bin
 disableupdates.bin
@@ -17,9 +18,9 @@ fan75.bin
 fan80.bin
 frontend.js
 ftp.bin
-goldhen22.bin
-goldhen221.bin
+goldhen23b1.bin
 goldhen222.bin
+goldhen221.bin
 gtavag100.bin
 gtavag127.bin
 gtavag132.bin
